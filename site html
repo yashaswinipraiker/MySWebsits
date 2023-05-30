@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yashaswini</title>
+    <link rel="stylesheet" href="css/css-my site.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+
+</head>
+<body>
+<div class="top-container">
+    <img class="top-cloud" src="cloud.png" alt="cloud-img">
+    <h1>I'm Yashaswini.</h1>
+    <h2>a programmer.</h2>
+    <img class="bottom-cloud" src="cloud.png" alt="cloud-img">
+    <img src="mountain.png" alt="mountain-img">
+</div>
+
+<div class="middle-container">
+  <div class="profile">
+    <img src="girl.png" alt="profile-pic" width="250" height="250">
+    <h2>Hello.</h2>
+    <p>I'm a student, studying at BNMIT</p>
+  </div>
+  <hr>
+  <div class="skills">
+    <h2>My Skills.</h2>
+    <div class="skill-row">
+      <img class="code-img" src="coding.png" alt="web-development" >
+      <h3>Web Development</h3>
+      <p>I had the passion to create my own web, and over the period of time i have learnt those skills and today i'm here with my own web.</p>
+    </div>
+    <div class="skill-row">
+      <img class="python-img" src="web.png" alt="python-developer" >
+      <h3>Python Developer</h3>
+      <p>Python is one of the easiest language, i love expoloring in it.</p>
+    </div>
+  </div>
+    <hr>
+  <div class="contact-me">
+    <h2>Get In Touch</h2>
+    <h3>If you love code.</h3>
+    <p>Let's have some fun with coding together.</p>
+    <a class="btn" href="mailto:yashaswiniraiker20@gmail.com">CONTACT ME</a>
+  </div>
+</div>
+
+<div class="bottom-container">
+  <a class="footer-link" href="https://www.linkedin.com/in/yashaswini-raiker-513872198/">LinkedIn</a>
+  <a class="footer-link" href="https://twitter.com/_yashaswini20">Twitter</a>
+  <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+  <p class="name">© 2023 Yashaswini P Raiker.</p>
+</div>
+
+
+</body>
+</html>
